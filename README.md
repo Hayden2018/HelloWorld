@@ -1,0 +1,2 @@
+# Hello World
+This repo contain various py files which demonstrate the commonly used syntax in Python 3, no external libraries needed. They are used in my youtube python series [here](https://www.youtube.com/playlist?list=PLRwTdVmFIjxyPKkoHe2UBfDeR8D-OYIQf).
